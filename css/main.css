@@ -349,6 +349,6 @@ footer{opacity:0.5;padding-top:70px;padding-bottom:40px;}footer img{margin-left:
 footer p{text-align:left;margin-top:35px;}
 .instagram-logo{margin:30px auto;display:block;}
 .instructions{font-size:2em;color:#000;}
-.instructions-list li{font-size:1.5em;line-height:1.5em;margin-bottom:1.5em;}
+.instructions-list li{font-size:1.5em;line-height:1.5em;margin-bottom:1.5em;}.instructions-list li a{outline:none;}
 .instagram-photo{padding-bottom:30px;}
 .instagram-back{margin-bottom:30px;display:block;}
